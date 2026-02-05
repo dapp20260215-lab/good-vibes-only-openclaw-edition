@@ -67,7 +67,7 @@ Complete all required fields:
 ## ❓ Questions?
 
 - Join the discussion in [Discussions](https://github.com/bnb-chain/bnb-ai-coding-sprint/discussions)
-- Follow [@DoraHacks](https://twitter.com/DoraHacks) and [@BNBChain](https://twitter.com/BNBChain) for updates
+- Follow [@BNBChain](https://twitter.com/BNBChain) for updates
 - Use **#VibingOnBNB** on Twitter
 
 ---
