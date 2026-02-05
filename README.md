@@ -1,4 +1,4 @@
-# 💡 BNB AI Coding Sprint - Open Track Ideas
+# 💡 Good Vibes Only-OpenClaw Edition - Open Track Ideas
 
 Welcome to the **BNB AI Coding Sprint** Open Track! This is where the community shapes the hackathon by proposing ideas for builders to work on.
 
