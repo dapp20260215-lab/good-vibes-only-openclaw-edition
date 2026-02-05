@@ -9,10 +9,10 @@ The Open Track is a community-driven initiative where anyone can submit project 
 ## 📋 How to Submit an Idea
 
 ### Step 1: Check Existing Ideas
-Browse the [Issues](https://github.com/tari404/ideas/issues) tab to see what's already been proposed. Avoid duplicates!
+Browse the [Issues](https://github.com/bnb-chain/bnb-ai-coding-sprint/issues) tab to see what's already been proposed. Avoid duplicates!
 
 ### Step 2: Create a New Issue
-Click **["New Issue"](https://github.com/tari404/ideas/issues/new/choose)** and select the **"💡 Idea Submission"** template.
+Click **["New Issue"](https://github.com/bnb-chain/bnb-ai-coding-sprint/issues/new)** and select the **"💡 Idea Submission"** template.
 
 ### Step 3: Fill Out the Template
 Complete all required fields:
@@ -66,10 +66,10 @@ Complete all required fields:
 
 ## ❓ Questions?
 
-- Join the discussion in [Discussions](https://github.com/tari404/ideas/discussions)
+- Join the discussion in [Discussions](https://github.com/bnb-chain/bnb-ai-coding-sprint/discussions)
 - Follow [@DoraHacks](https://twitter.com/DoraHacks) and [@BNBChain](https://twitter.com/BNBChain) for updates
 - Use **#VibingOnBNB** on Twitter
 
 ---
 
-**Ready to submit?** [Create a new idea →](https://github.com/tari404/ideas/issues/new/choose)
+**Ready to submit?** [Create a new idea →](https://github.com/bnb-chain/bnb-ai-coding-sprint/issues/new/choose)
